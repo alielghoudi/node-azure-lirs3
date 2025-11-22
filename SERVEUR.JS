@@ -3,7 +3,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('<h1>Bienvenue sur mon site Node.js hébergé sur Azure</h1><p>Nom : LIROS3</p>');
+  res.send('<h1>Bienvenue sur mon site Node.js hébergé sur Azure</h1><p>Nom : LIRIS3</p>');
 });
 
 app.listen(port, () => {
