@@ -1,0 +1,17 @@
+{
+  "name": "mon_app_node",
+  "version": "1.0.0",
+  "description": "Application Node.js simple pour Azure",
+  "main": "SERVEUR.JS",
+  "scripts": {
+    "start": "node SERVEUR.JS"
+  },
+  "keywords": [],
+  "author": "LIRIS3",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+ 
+
+}
